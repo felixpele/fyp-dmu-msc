@@ -1,0 +1,15 @@
+pandas
+numpy
+nltk
+matplotlib
+sentence-transformers
+scikit-learn
+gensim
+umap
+hdbscan
+bertopic
+scipy == 1.12
+catboost
+xgboost
+lightgbm
+seaborn
